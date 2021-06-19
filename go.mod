@@ -1,4 +1,4 @@
-module rsc.io/go-import-redirector
+module jsouthworth.net/go/go-import-redirector
 
 go 1.13
 
